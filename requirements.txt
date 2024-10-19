@@ -1,0 +1,15 @@
+# For data manipulation
+pandas
+
+# For mathematical operations
+numpy
+
+# For data visualization
+matplotlib
+seaborn
+
+# For machine learning
+scikit-learn
+imblearn
+
+
