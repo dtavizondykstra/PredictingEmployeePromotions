@@ -111,9 +111,9 @@ Results
 * Observed high precision and recall rates, indicating effective prediction capability.
 
 ## Contributing
-* Contributions are welcome! Please follow these steps:
-  * Fork the repository.
-  * Create a new branch:
+Contributions are welcome! Please follow these steps:
+ * Fork the repository.
+ * Create a new branch:
     
 ```
 git checkout -b feature/your-feature-name
